@@ -1,2 +1,2 @@
 # music-payer
-a simple music player with basic functionalities using tkinter ans pygame
+a simple music player with basic functionalities using tkinter and pygame
